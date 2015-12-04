@@ -1,6 +1,7 @@
 /*
 **********LIBRERIA KIWIBOT LITE****************
 **SEGUNDO ÁLVAREZ GUIRADO NOVIEMBRE DE 2015****
+**ALBERTO PUMAR JIMÉNEZ DICIEMBRE DE 2015******
 Librería diseñada para el control del escudo básico kiwibot
 centrada fundamentalmente en el control de la matriz de leds
 VERSIÓN ALFA
